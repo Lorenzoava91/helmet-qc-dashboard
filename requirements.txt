@@ -4,3 +4,5 @@ openai>=1.0.0
 plotly
 pandasai
 langchain
+protobuf==3.20.*
+
